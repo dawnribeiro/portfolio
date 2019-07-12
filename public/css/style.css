@@ -7,6 +7,9 @@
     /* Safari, Android, iOS */ url('VarelaRound-Regular.svg#svgFontName')
       format('svg'); /* Legacy iOS */
 }
+/* html {
+  scroll-behavior: smooth;
+} */
 html,
 body {
   height: 100%;
@@ -96,6 +99,7 @@ h3,
   bottom: 5%;
   left: 50%;
   margin-left: -44px;
+  scroll-behavior: smooth;
 }
 .btnAbout:hover {
   color: #fff;
