@@ -7,6 +7,10 @@
     /* Safari, Android, iOS */ url('VarelaRound-Regular.svg#svgFontName')
       format('svg'); /* Legacy iOS */
 }
+.headshot {
+  width: 500px;
+  border-radius: 50%;
+}
 /* html {
   scroll-behavior: smooth;
 } */
@@ -29,7 +33,6 @@ h3,
 }
 #boxWrapp {
   width: 100%;
-  max-width: 1360px;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
